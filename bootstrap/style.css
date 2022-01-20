@@ -1,0 +1,25 @@
+.header-text {
+    color: #363958;
+}
+
+h1 {
+    color: #FABE4C;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+#btn {
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    color: #ffff;
+    box-shadow: 2px 5px 7px rgb(12, 12, 12);
+}
+
+#btn:hover {
+    background: linear-gradient(180deg, #7f9234 0%, #85a019ad 100%);
+    box-shadow: none;
+}
+
+.fotter {
+    background: #050505;
+    color: #fff;
+}
